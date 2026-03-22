@@ -1,5 +1,5 @@
 # FeedIntake-AI
-Prediction of feed intake of beef cattle feedlot using AI. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17625129.svg)](https://doi.org/10.5281/zenodo.17625129)
+Prediction of feed intake of beef cattle feedlot using AI. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19171042.svg)](https://doi.org/10.5281/zenodo.19171042)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
