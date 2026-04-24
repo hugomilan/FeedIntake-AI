@@ -12,6 +12,6 @@ This work is licensed with
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-Feel free to use and share the data and code. Please, if you use it, cite our paper (proper citaiton will be given once the paper is publised):
+Feel free to use and share the data and code. Please, if you use it, cite our paper:
 
-Maia ASC, Hall JB, Milan HFM, Teixeira IAMA. AI-base frameworkd to predict animal and pen feed intake in feedlot beef cattle. Under review.
+Maia ASC, Hall JB, Milan HFM, Teixeira IAMA. AI-base frameworkd to predict animal and pen feed intake in feedlot beef cattle. Smart Agricultural Technology 14:105090, 2026. https://doi.org/10.1016/j.atech.2026.102090 
